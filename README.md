@@ -1,4 +1,4 @@
-## Olá! Eu sou a Mayara FerreiraOS
+## Hi! I am Mayara FerreiraOS
 
 - 🌱 I’m currently learning HTML5, CSS3, JavaScript e Python3
 - 📫 How to reach me: mayarafsouza@hotmail.com
