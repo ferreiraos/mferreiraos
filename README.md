@@ -1,6 +1,12 @@
-## Hi! I am Mayara FerreiraOS
+## Olá, eu me chamo Mayara
+mas pode me chamar de ferreiraos
 
-- 🌱 I’m currently learning HTML5, CSS3, JavaScript e Python3
-- 📫 How to reach me: mayarafsouza@hotmail.com
-- 😄 Pronouns: ela/dela
 
+<div style="display: inline_block"><br>
+
+  <img align="center" alt="ferreiraos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="ferreiraos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="ferreiraos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ 
+</div>
+  
